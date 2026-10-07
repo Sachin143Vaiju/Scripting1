@@ -5,4 +5,5 @@ echo "Today is start devops learning"
 echo "git hub cmd start"
 echo "sachin start devops study"
 echo "after few day start new job in IT Industries"
-
+echo "satrt git hub and jenkins"
+echo "first 5 student in placed fo MNC batch 32"
